@@ -1,0 +1,41 @@
+header {
+    text-align: center;
+    padding: 20px;
+    background-color: #be0d0d;
+    color: #f09090;
+}
+
+
+body{
+    background-color: #f8a6a6;
+}
+
+nav {
+    background-color: #ce4b4b;
+}
+
+nav ul {
+    list-style-type: none;
+    text-align: center;
+    padding: 10px;
+}
+
+nav ul li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #fff;
+}
+
+section {
+    background-color: #f8a6a6;
+}
+
+footer {
+    background-color: #c42121;
+    text-align: center;
+}
+
